@@ -1,0 +1,10 @@
+.vscode/
+db.sqlite3
+*.pyc
+env/
+**/migrations/**
+!**/migrations
+!**/migrations/__init__.py
+.idea/
+media/
+
